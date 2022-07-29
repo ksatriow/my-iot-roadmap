@@ -10,19 +10,52 @@
 
 ![Roadmap](./assets/embeddedroadmap.png)
 
-## 🛠 **Tutorial**
+## 🛠 **Details**
 
-OS X & Linux:
+**Knowledge**
 
-```sh
-npm install my-crazy-module --save
-```
+ |  Lecture | Resource |
+| ------------ | ------------ |
+|  Physics | https://www.youtube.com/playlist?list=PL6i60qoDQhQGaGbbg-4aSwXJvxOqO6o5e |
+| Math  | https://www.youtube.com/playlist?list=PLB7540DEDD482705B |
+| Electro  | https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70 |
+|  Practical Skills | https://www.qt.io/embedded-development-talk/essential-skills-for-embedded-systems-and-embedded-software-engineers  |
+|  OS Concepts  | https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O ||
 
-Windows:
+**Entry Level**
 
-```sh
-edit autoexec.bat
-```
+|  Lecture | Resource |
+| ------------ | ------------ |
+|  System | Material Design, Jetpack Compose UI |
+| Tools  | Broadcast Receivers, Services, Flavours |
+| Code  | Media Player, Exo Player|
+|  Software | Firebase, MySQL, Room, AWS ||
+
+**IoT**
+
+ |  Lecture | Resource |
+| ------------ | ------------ |
+|  Connectivity | Material Design, Jetpack Compose UI |
+| RTOS  | Broadcast Receivers, Services, Flavours |
+| IoT Cloud  | Media Player, Exo Player|
+|  IoT Platform | Firebase, MySQL, Room, AWS ||
+
+**Software**
+
+ |  Lecture | Resource |
+| ------------ | ------------ |
+|  Frontend | Material Design, Jetpack Compose UI |
+| Backend  | Broadcast Receivers, Services, Flavours |
+| Devops  | Media Player, Exo Player|
+|  Mobile | Firebase, MySQL, Room, AWS ||
+
+**Advance**
+
+ |  Lecture | Resource |
+| ------------ | ------------ |
+|  Machine Learning | Material Design, Jetpack Compose UI |
+| Edge Computing  | Broadcast Receivers, Services, Flavours |
+| Smart Cities  | Media Player, Exo Player ||
 
 ## 📈 **How To Guides**
 
