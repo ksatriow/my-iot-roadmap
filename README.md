@@ -65,27 +65,10 @@ Adicione blocos de códigos e, se necessário, screenshots.
 
 _Para mais exemplos, consulte a [Wiki](wiki)._ 
 
-## 💻 **Explanation**
-
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
-```sh
-make install
-npm test
-```
-
-## 📋 **References**
-
-Seu Nome – [Portfólio](https://www...) – SeuEmail@exemplo.com
-
-Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
-
-[https://github.com/seuUsuario/nomeDoRepositorio](https://github.com/devgabrieldejesus/)
-
 ## 🚀 **Contribution**
 
-1. Faça o _fork_ do projeto (<https://github.com/seuUsuario/nomeDoRepositorio/fork>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b meu-novo-recurso`)
-3. Faça o _commit_ (`git commit -am 'Adicionando um novo recurso...'`)
-4. _Push_ (`git push origin meu-novo-recurso`)
-5. Crie um novo _Pull Request_
+1. Fork (https://github.com/ksatriow/my-iot-roadmap/fork)
+2. Create new branch (`git checkout -b [fill with your branch]`)
+3. Commit your changes (`git commit -am '[fill with your updated changes]'`)
+4. Push it to your branch (`git push origin branch`)
+5. Create Pull Request
