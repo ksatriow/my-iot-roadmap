@@ -17,3 +17,4 @@
 3. Commit your changes (`git commit -am '[fill with your updated changes]'`)
 4. Push it to your branch (`git push origin branch`)
 5. Create Pull Request
+6. Done, you already Contribute to this Repository
